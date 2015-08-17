@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDC08698-E943-4D08-BB7E-D847CE9FACB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fhotoroom</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>97E73DCD-98EF-4785-B308-266B0AD8B6F9</key>
+		<string>ssh://xcode.cse.psu.edu/git/bid5098</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Fhotoroom/Fhotoroom.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>97E73DCD-98EF-4785-B308-266B0AD8B6F9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://xcode.cse.psu.edu/git/bid5098</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>97E73DCD-98EF-4785-B308-266B0AD8B6F9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>97E73DCD-98EF-4785-B308-266B0AD8B6F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Submit-Assignment-5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
